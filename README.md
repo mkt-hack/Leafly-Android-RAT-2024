@@ -1,10 +1,10 @@
 # Leafly-Android-RAT-2024
 Leafly-Android-RAT-2024
 
-Telegram : https://t.me/LeaflyDeveloperO
-Discord : leaflydev
+Telegram : https://telegram.me/Leafly_Android_Rat
 
-Video : https://www.youtube.com/watch?v=PFPkgOZotxY
+
+Video : https://telegram.me/+O7XHJ1I-RaQ1Yzc
 
 builder
 ![dwdянный](https://github.com/00DPollard00/Leafly-Android-RAT-2024/assets/168966904/e96318a3-3758-41bd-a28f-b842f307aaa4)
